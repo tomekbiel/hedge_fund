@@ -27,6 +27,10 @@ data/*.json
 cache/
 *.pkl
 
+# Allow sample data (small enough for GitHub)
+!data/sample/*.parquet
+!data/sample/data_info.txt
+
 # IDE
 .idea/
 .vscode/
