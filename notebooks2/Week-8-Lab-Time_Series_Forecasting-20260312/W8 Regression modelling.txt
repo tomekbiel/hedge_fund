@@ -1,0 +1,2 @@
+https://www.kaggle.com/code/sudhirnl7/linear-regression-tutorial
+https://www.kaggle.com/code/prashant111/logistic-regression-classifier-tutorial/
