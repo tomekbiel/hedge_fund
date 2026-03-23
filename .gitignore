@@ -45,6 +45,13 @@ ENV/
 # Jupyter
 .ipynb_checkpoints
 
+# Results files (too large for GitHub)
+Results/
+*.csv
+
+# Private folders
+notebooks/tomasz biel/
+
 # OS
 .DS_Store
 Thumbs.db
